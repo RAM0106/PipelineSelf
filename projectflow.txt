@@ -1,1 +1,4 @@
-
+create a github repo and clone it in the local machine 
+add src folder with all the components (run them individually)
+add data models reports directories to the gitignore file 
+now git add commit and push
