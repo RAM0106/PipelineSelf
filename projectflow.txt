@@ -2,3 +2,14 @@ create a github repo and clone it in the local machine
 add src folder with all the components (run them individually)
 add data models reports directories to the gitignore file 
 now git add commit and push
+
+Setting up the dvc pipeline (without parameters)
+create dvc.yaml file and stages to it 
+dvc init then do dvc repo to test pipeline automation (We have to check the dvc tag)
+now git add commit push
+
+Experiments with DVC 
+pip install dvc live 
+add the params setup
+do "dvc repro"
+
